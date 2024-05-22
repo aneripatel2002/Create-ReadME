@@ -22,6 +22,8 @@ If everything has worked correctly, you should see a notice in the terminal that
 
 ## Video Link
 https://drive.google.com/file/d/1VECBHYaHlHVbL8N0uUrGt0WkHpFgQYzm/view?usp=sharing
+<<<<<<< HEAD
+=======
 
 ## Screenshots
 
@@ -30,4 +32,16 @@ https://drive.google.com/file/d/1VECBHYaHlHVbL8N0uUrGt0WkHpFgQYzm/view?usp=shari
 ## Questions
 
 Find me on GitHub: [aneripatel2002](https://github.com/aneripatel2002)
+>>>>>>> 7fd1c443d982b907ddc43f9dc4c922958cd68014
 
+## Screenshots
+
+<<<<<<< HEAD
+![alt text](image.png)
+
+## Questions
+
+Find me on GitHub: [aneripatel2002](https://github.com/aneripatel2002)
+
+=======
+>>>>>>> 7fd1c443d982b907ddc43f9dc4c922958cd68014
